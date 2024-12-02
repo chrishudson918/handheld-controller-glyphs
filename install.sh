@@ -21,7 +21,7 @@ function set_default() {
     fi
 }
 
-url="https://github.com/victor-borges/handheld-controller-glyphs.git"
+url="https://github.com/chrishudson918/handheld-controller-glyphs.git"
 
 if [[ -d "${THEME_FOLDER}/handheld-controller-glyphs" ]]; then
     rm -rf "${THEME_FOLDER}/handheld-controller-glyphs"
